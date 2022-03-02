@@ -14,27 +14,42 @@ Your attention is provided with remote administration tool. Arhibot Rat is for e
 
 ## Features
 
-Arhibot RAT 1.0         Arhibot Rat 2.0                    
-|:----------------|  |:----------------|                
-| `Remote Desktop`|  | `Remote Desktop`|
-| `File Manager`  |  | `Remote WebCam`|
-| `Keylogger`     |  | `Remote Microphone`|
-| `Process Manage`|  | `Run File`|
-| `Passwords`     |  | `Script`|
-| `Fun Menu`      |  | `Process Manager`|
-| `TextToSpeech`  |  | `File Manager`|
-| `Restart`       |  | `Remote Shell`|
-| `Shutdown`      |  | `Remote Regedit`|
-| `Monitor`       |  | `Remote Services`|
-| `Builder`       |  | `Remote Connections`|            
-| `Multi Client`  |  | `Chat`|
-                     | `Builder`|
-                     | `Passwords`|
-                     | `Open Folder`|
-                     | `Fun Menu`      |
-                     | `TextToSpeech`  |
-                     | `Keylogger`|
-                     | `Restart`       |
-                     | `Shutdown`      |
-                     | `Monitor`       |
-                     | `Multi Client`  |
+Arhibot RAT 1.0                         
+|:----------------|              
+| `Remote Desktop`|  
+| `File Manager`  |  
+| `Keylogger`     |  
+| `Process Manage`|  
+| `Passwords`     |  
+| `Fun Menu`      |  
+| `TextToSpeech`  |  
+| `Restart`       |  
+| `Shutdown`      |  
+| `Monitor`       |  
+| `Builder`       |             
+| `Multi Client`  |
+
+Arhibot RAT 2.0                  
+|:----------------|
+| `Remote Desktop`|
+| `Remote WebCam`|
+| `Remote Microphone`|
+| `Run File`|
+| `Script`|
+| `Process Manager`|
+| `File Manager`|
+| `Remote Shell`|
+| `Remote Regedit`|
+| `Remote Services`|
+| `Remote Connections`|
+| `Chat`|
+| `Builder`|
+| `Passwords`|
+| `Open Folder`|
+| `Fun Menu`      |
+| `TextToSpeech`  |
+| `Keylogger`|
+| `Restart`       |
+| `Shutdown`      |
+| `Monitor`       |
+| `Multi Client`  |                     
