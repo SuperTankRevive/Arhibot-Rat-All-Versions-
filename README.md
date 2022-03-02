@@ -1,2 +1,6 @@
-# Arhibot-Rat-All-Versions-
-All Versions of Arhibot Rat (+ ENG and RUS)
+# Arhibot-Rat
+
+Remote Administration Tool for Windows
+
+
+# Disclaimer
