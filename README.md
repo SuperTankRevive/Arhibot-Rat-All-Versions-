@@ -8,8 +8,8 @@ Your attention is provided with remote administration tool. Arhibot Rat is for e
 
 ## Contents
 - [About RAT](#about-rat)
-- [Features of RAT](#features)
-- [How to use?](#quick-start)
+- [Features of RAT](#Features)
+- [How to use?](#Quick-start)
 - [Demonstration](#demonstration)
 
 ## Features
@@ -40,8 +40,6 @@ Arhibot RAT 2.0
 | `File Manager`|
 | `Remote Shell`|
 | `Remote Regedit`|
-| `Remote Services`|
-| `Remote Connections`|
 | `Chat`|
 | `Builder`|
 | `Passwords`|
@@ -53,3 +51,16 @@ Arhibot RAT 2.0
 | `Shutdown`      |
 | `Monitor`       |
 | `Multi Client`  |                     
+
+## Quick-start
+Download Arhibot Rat:
+
+1. Click "Code" and choose "Download Zip"
+2. Before download, turn off your antivirus software, because he lock his work and app didn't will work correctly.
+3. Open Folder for Versions (Open Folder Arhibot Rat EN for English Version, Open Folder Arhibot Rat RUS for Russian Version)
+4. If you opened first version, just open app. If you opened second version, DON'T DELETE .DLL FILES! They is very important for remote microphone and webcam.
+Ready!
+
+Port:
+1. (In first version) - Click the button "Listener" and enter your port "In my action is 1337". Click Start, ready!
+2. If client didn't connected, you need NO-IP.
