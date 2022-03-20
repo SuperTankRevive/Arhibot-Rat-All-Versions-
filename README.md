@@ -29,7 +29,7 @@ Arhibot RAT 1.0
 | `Builder`       |             
 | `Multi Client`  |
 
-Arhibot RAT 2.0                  
+Arhibot RAT 1.1                 
 |:----------------|
 | `Remote Desktop`|
 | `Remote WebCam`|
@@ -44,8 +44,6 @@ Arhibot RAT 2.0
 | `Builder`|
 | `Passwords`|
 | `Open Folder`|
-| `Fun Menu`      |
-| `TextToSpeech`  |
 | `Keylogger`|
 | `Restart`       |
 | `Shutdown`      |
@@ -62,5 +60,24 @@ Download Arhibot Rat:
 Ready!
 
 Port:
-1. (In first version) - Click the button "Listener" and enter your port "In my action is 1337". Click Start, ready!
+1. (In first version) - Click the button "Listener" and enter your port "In my case is 1337". Click Start, ready!
 2. If client didn't connected, you need NO-IP.
+
+How to Open Ports?
+
+For opening ports you need No-IP or HideMyName VPN
+
+Builder:
+
+In First Version:
+1. Click the button "Builder"
+2. Enter the IP / No-IP, your started port
+3. You can setup for your virus special functions. Example: Copy to StartUp, Anti Kill, etc. (at your discretion)
+4. After setup, click "Build!", choose directory where you want to save the virus, ready!
+
+In Second Version:
+1. Click the link "Builder" bellow
+2. Do the same. (optional) you can set for your virus icon.
+3. Ready!
+
+#demonstration
