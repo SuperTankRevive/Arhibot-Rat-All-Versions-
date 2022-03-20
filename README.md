@@ -81,3 +81,8 @@ In Second Version:
 3. Ready!
 
 # demonstration
+![Builder](images/Builder.png)
+![Victim](images/Victim.png)
+![Notification](images/Notification.png)
+![Victim_Control](images/Victim_Control.png)
+![Spy Functions](images/Spy Functions.png)
