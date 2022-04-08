@@ -15,23 +15,23 @@ Your attention is provided with remote administration tool. Arhibot Rat is for e
 - [How to use?](#Quick-start) Как пользоваться? Быстрый старт для новичков
 - [Demonstration](#demonstration) Демонстрация
 
-## Features
+## Features / Фишки и особенности
 
 Arhibot RAT 1.0                         
-|:----------------|              
-| `Remote Desktop`|  
-| `File Manager`  |  
-| `Keylogger`     |  
-| `Process Manage`|  
-| `Passwords`     |  
-| `Fun Menu`      |  
-| `TextToSpeech`  |  
-| `Restart`       |  
-| `Shutdown`      |  
-| `Monitor`       |  
-| `Builder`       |             
-| `Multi Client`  |
-
+|:---------------------------------------------------|              
+| `Remote Desktop / Удаленный рабочий стол`|  
+| `File Manager / Удаленный файловый менеджер`  |  
+| `Keylogger / Кейлоггер`     |  
+| `Process Manager / Менеджер процессов`|  
+| `Passwords / Пароли`     |  
+| `Fun Menu / Смешное меню`      |  
+| `TextToSpeech / Текст-ту-спич`  |  
+| `Restart / Перезапуск ПК`       |  
+| `Shutdown / Выключение ПК`      |  
+| `Monitor / Предпросмотр жкрана`       |  
+| `Builder / Билдер (Создать ратник)`       |             
+| `Multi Client / Много-пользовательские сервера`  |
+|:----------------------------------------------------|
 Arhibot RAT 1.1                 
 |:----------------|
 | `Remote Desktop`|
