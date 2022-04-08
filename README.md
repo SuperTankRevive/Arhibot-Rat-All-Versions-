@@ -10,10 +10,10 @@ Your attention is provided with remote administration tool. Arhibot Rat is for e
 Вашему вниманию предоставляется инструмент для удаленного доступа к компьютеру. Arhibot Rat предназначен для ознакомительных целях. Создатели не будут нести ответственности за любой ущерб, причиненым этим инструментом. Вы можете пользоваться этим инструментом, но вы осознаете что вы используйте его на свой страх и риск.
 
 ## Contents / Содержимое
-- [About RAT](#about-rat)
-- [Features of RAT](#Features)
-- [How to use?](#Quick-start)
-- [Demonstration](#demonstration)
+- [About RAT](#about-rat) Об программе
+- [Features of RAT](#Features) Фишки и особенности
+- [How to use?](#Quick-start) Как пользоваться? Быстрый старт для новичков
+- [Demonstration](#demonstration) Демонстрация
 
 ## Features
 
