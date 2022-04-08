@@ -6,6 +6,7 @@ Arhibot Rat - Инструмент для удаленного доступа к
 
 # Disclaimer /  Дисклеймер
 Your attention is provided with remote administration tool. Arhibot Rat is for education and research purposes only. Creators WON'T BE RESPONSIBLE for any damages / losses, created by this tool. You can use this software, but you understand that you this use on your own and risk.
+
 Вашему вниманию предоставляется инструмент для удаленного доступа к компьютеру. Arhibot Rat предназначен для ознакомительных целях. Создатели не будут нести ответственности за любой ущерб, причиненым этим инструментом. Вы можете пользоваться этим инструментом, но вы осознаете что вы используйте его на свой страх и риск.
 
 ## Contents / Содержимое
