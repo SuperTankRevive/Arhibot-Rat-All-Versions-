@@ -83,9 +83,14 @@ In Second Version:
 2. Do the same. (optional) you can set for your virus icon.
 3. Ready!
 
-# demonstration
+# Demonstration
+Демонстрация
 ![](images/Builder.PNG)
+Билдер - Создайте свою ловушку джокера для этого ратника
 ![](images/Victim.png)
+Вот здесь будут отображены все жертвы
 ![](images/Notification.png)
+Уведомление что появился новый пользователь
 ![](images/Victim_Control.png)
+Что мы можем сделать с клиентом
 ![](images/Spy Functions.png)
